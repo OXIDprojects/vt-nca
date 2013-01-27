@@ -1,6 +1,13 @@
+Current Version: 1.0.1 
+====================
+this version contains a bugfix caused not loading article objects properly and also wrong links to the articles
+this is just a workaround for this problem not a final fix, there will another update soon.
+please contact me if you should experince some bugs.
+
 Functions:
 ====================
-* displaying the newest articles of the active category
+* displaying the newest articles of a category
+* also the newest articles of a manufacturer
 
 Compatibility:
 ====================
@@ -16,7 +23,7 @@ You will find the code snippet in the module description in OXID backend
 
 vt Newest Category Articles (module for OXID eSales)
 ====================
-Copyright (C) 2012  Marat Bedoev
+Copyright (C) 2012 - 2013  Marat Bedoev
 
 This program is free software;
 you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation;
